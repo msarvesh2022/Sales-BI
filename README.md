@@ -4,4 +4,4 @@
 
 -- Key Features
 
-![image](https://github.com/msarvesh2022/Sales-BI/blob/main/Data/bi-1.png")
+![image](https://github.com/msarvesh2022/Sales-BI/blob/main/bi-1.png)
