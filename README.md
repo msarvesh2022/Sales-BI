@@ -36,6 +36,8 @@ A dynamic and insightful **Power BI dashboard** designed to analyze sales transa
 ###  2. Total Revenue Generated  
  The business recorded a total of **1.47M in sales revenue**, indicating strong financial performance.
 
+ ![image](https://github.com/msarvesh2022/Sales-BI/blob/main/bi-02.png)
+
 ###  3. Average Spend per Transaction  
  Customers spend an average of **129.64** per transaction.
 
