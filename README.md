@@ -1,18 +1,20 @@
-# Sales Analysis
+# Teatil Store Sales Analysis
 
-## This Project contain sales anaysis and visualization using power Microsoft BI tool
 
-# Dashboard
+### Dashboard
 
 ![image](https://github.com/msarvesh2022/Sales-BI/blob/main/bi-1.png)
 
+### Objective
+
+- Analyzed one quarter of product sales data to ensure better inventory management, improved profitability, and sustainable growth.
 
 
-# 📊 **Sales Data Analysis Dashboard using Power BI**
+#  **Sales Data Analysis Dashboard using Power BI**
 
 ---
 
-## 📁 **Project Overview**
+##  **Project Overview**
 
 A dynamic and insightful **Power BI dashboard** designed to analyze sales transactions and provide a comprehensive overview of sales performance, customer behavior, product category trends, and payment method preferences.
 
@@ -80,13 +82,13 @@ A dynamic and insightful **Power BI dashboard** designed to analyze sales transa
 
 ## 🛠 **Tools Used**
 
-- 🧩 Power BI (DAX, Filters, Visualizations)
-- 📊 Data Cleaning & Modeling
-- 📂 Excel/CSV (as data source)
+-  Power BI (DAX, Filters, Visualizations)
+-  Data Cleaning & Modeling
+-  Excel/CSV (as data source)
 
 ---
 
-## 📷 **Dashboard Preview**
+##  **Dashboard Preview**
 
 > *(Replace the path with your image path if uploading to GitHub)*  
 `![Dashboard Preview](./dashboard.png)`
